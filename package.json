@@ -1,0 +1,15 @@
+{
+  "name": "superset",
+  "version": "1.0.0",
+  "description": "a set of supers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "the league of supers",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
